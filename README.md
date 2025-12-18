@@ -10,5 +10,4 @@
 Java (Learning), Python, JavaScript, PHP, HTML, CSS, Bootstrap, React (Beginner), MySQL, Git, VS Code
 
 📫 Reach me at:  
-📧 poojar241405@gmail.com  
 💼 linkedin.com/in/pooja-r-762322381
